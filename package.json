@@ -1,0 +1,26 @@
+{
+  "name": "wolves-client",
+  "version": "0.0.0",
+  "description": "Keeping the wolves distracted",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christine Beaubrun",
+  "license": "ISC",
+  "dependencies": {
+    "ampersand-model": "^4.0.1",
+    "ampersand-rest-collection": "^2.0.1",
+    "ampersand-router": "^1.0.2",
+    "ampersand-view": "^7.0.2",
+    "ampersand-view-switcher": "^1.0.3",
+    "domready": "^1.0.6",
+    "getconfig": "^0.3.0",
+    "hapi": "^6.6.0",
+    "moment": "^2.8.2",
+    "moonboots_hapi": "^2.4.0",
+    "stylizer": "^1.0.0",
+    "templatizer": "^1.0.0",
+    "wolf-howler": "0.0.0"
+  }
+}
